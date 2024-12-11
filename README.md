@@ -7,7 +7,7 @@ The project involves building recursive functions to solve common programming ch
 
 ## Features
 - Recursive problem-solving techniques
-- Implementations of classic algorithms like factorial, Fibonacci, and array flattening
+- Implementations of classic algorithms like factorial, Fibonacci and merge sort
 - Practice with edge cases and optimization
 
 ## License
